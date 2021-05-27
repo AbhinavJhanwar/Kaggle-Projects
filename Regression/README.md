@@ -11,7 +11,7 @@
 ### used-car-price-prediction
 * **Problem Statement-** To predict the resale value of a used car based on various attributes given.
 * **Kaggle Data Link-** https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes
-* **Kaggle Code Link-** 
-** https://www.kaggle.com/abhinavjhanwar/used-car-price-prediction-audi-r2-score-97
-** https://www.kaggle.com/abhinavjhanwar/used-car-price-prediction-toyota-r2-score-97
-** https://www.kaggle.com/abhinavjhanwar/used-car-price-prediction-volkswagen-r2-score-96
+* **Kaggle Code Links-** 
+  * https://www.kaggle.com/abhinavjhanwar/used-car-price-prediction-audi-r2-score-97
+  * https://www.kaggle.com/abhinavjhanwar/used-car-price-prediction-toyota-r2-score-97
+  * https://www.kaggle.com/abhinavjhanwar/used-car-price-prediction-volkswagen-r2-score-96
